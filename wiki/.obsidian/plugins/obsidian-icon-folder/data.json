@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#f83062",
     "recentlyUsedIcons": [
+      "FabGolang",
       "FabLinux",
       "LiSignal",
       "LiAntenna",
-      "LiUserRoundCog",
-      "LiAudioWaveform"
+      "LiUserRoundCog"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -74,5 +74,7 @@
   "Software Learning/Developer Training": "LiUserRoundCog",
   "Works/Telecom": "LiSignal",
   "Works/Baregheh": "LiAntenna",
-  "Software Learning/Snippets/Linux": "FabLinux"
+  "Software Learning/Snippets/Linux": "FabLinux",
+  "Software Learning/Golang": "FabGolang",
+  "Telecom Domain": "LiSignal"
 }
