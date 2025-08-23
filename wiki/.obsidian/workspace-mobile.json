@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "8904cb66d85f24a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1090ae6095866ee6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf2694823d2910ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Works/Mosaede/Strategic Design.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec7c7179eb23128f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-02 17.11.35.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56cbe8a39962ead9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c60f279853371fc4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "61f94125fc7203f2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "77091981b0c535cd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a232520cbf760aa3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c8c2e0af9d77e0d5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8fdd98e893be136d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Excalidraw/Drawing 2023-11-02 17.11.35.excalidraw.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "741e9af64307e8d6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Excalidraw/Drawing 2023-11-02 17.11.35.excalidraw.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9ea070906c5b067e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Excalidraw/Drawing 2023-11-02 17.11.35.excalidraw.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ec7c7179eb23128f",
+  "lastOpenFiles": [
+    "Works/Mosaede/Strategic Design.md",
+    "Excalidraw/Libraies/c4-architecture.excalidrawlib",
+    "Excalidraw/Libraies/hexagonal-architecture.excalidrawlib",
+    "Excalidraw/Drawing 2023-11-02 17.11.35.excalidraw.md",
+    "Works/Mosaede/Doman Specific Dictionary.md",
+    "Works/Mosaede/Actors.md",
+    "Works/Mosaede/System Design Documents/List of Documents.md",
+    "Works/Mosaede/System Design Documents/Untitled.md",
+    "Works/Mosaede/System Design Documents/DevOps.md",
+    "Works/Mosaede/DDD Learning/Steps to Do DDD.md",
+    "Works/Mosaede/DDD Learning/DDD Concepts.md",
+    "Concurrency In Action.md",
+    "CPP Features.md",
+    "Excalidraw/Drawing 2023-07-17 18.04.34.excalidraw.md",
+    "Excalidraw",
+    "Work At QuantumAI/Resources.md",
+    "Untitled.md",
+    "Tasks/Daily Tasks.md",
+    "Excalidraw/Drawing 2023-07-14 01.43.36.excalidraw.md"
+  ]
+}

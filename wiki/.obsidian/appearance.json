@@ -1,0 +1,17 @@
+{
+  "accentColor": "#0e8eb9",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "",
+  "showViewHeader": false,
+  "cssTheme": "Things",
+  "translucency": false,
+  "textFontFamily": "Avenir Next Condensed",
+  "monospaceFontFamily": "Cascadia Code",
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "increase-width"
+  ],
+  "showRibbon": true
+}

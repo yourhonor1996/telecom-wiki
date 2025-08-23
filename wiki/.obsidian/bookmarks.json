@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1728365347753,
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "type": "file",
+      "ctime": 1751549885493,
+      "path": "Software Learning/Languages/Go/Learn Go In One Week/Day Trainings/4 - Day 4 - Go Routines.md"
+    },
+    {
+      "type": "folder",
+      "ctime": 1752836578745,
+      "path": "Software Learning/Languages/Go/Learn Go In One Week/Side-Learnings"
+    }
+  ]
+}
